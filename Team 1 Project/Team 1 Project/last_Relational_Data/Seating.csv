@@ -1,0 +1,12 @@
+table_no,party_no,avaliable_status
+1,2,FALSE
+2,2,TRUE
+3,2,TRUE
+4,3,TRUE
+5,3,TRUE
+6,4,FALSE
+7,4,FALSE
+8,6,TRUE
+9,8,FALSE
+10,10,TRUE
+11,14,TRUE

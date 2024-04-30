@@ -1,0 +1,130 @@
+id,Ingredients,Category,Quantity,Unit,Availability Status,Supplier_id,Price Per Unit
+1,Barbecued Chicken,Meat & Protein,45,kg,high,100,70
+2,Red Peppers,Vegetables,36,kg,medium,101,25
+3,Green Peppers,Vegetables,11,kg,low,101,30
+4,Tomatoes,Vegetables,39,kg,medium,101,15
+5,Red Onions,Vegetables,20,kg,low,101,20
+6,Barbecue Sauce,Sauces & Seasonings,25,l,medium,102,15
+7,Chicken,Meat & Protein,23,kg,medium,100,50
+8,Artichokes,Vegetables,14,kg,low,101,40
+9,Spinach,Vegetables,29,kg,medium,101,35
+10,Garlic,Vegetables,26,kg,medium,101,25
+11,Jalapeno Peppers,Vegetables,31,kg,medium,101,30
+12,Fontina Cheese,Dairy & Cheese,18,kg,low,103,80
+13,Gouda Cheese,Dairy & Cheese,35,kg,medium,103,70
+14,Mushrooms,Vegetables,14,kg,low,101,40
+15,Asiago Cheese,Dairy & Cheese,45,kg,high,103,90
+16,Alfredo Sauce,Sauces & Seasonings,29,kg,medium,102,20
+17,Pesto Sauce,Sauces & Seasonings,27,kg,medium,102,20
+18,Corn,Vegetables,19,kg,low,101,10
+19,Cilantro,Vegetables,11,kg,low,101,15
+20,Chipotle Sauce,Sauces & Seasonings,8,kg,low,102,30
+21,Pineapple,Fruits,20,kg,low,104,25
+22,Bacon,Meat & Protein,6,kg,low,100,60
+23,Pepperoni,Meat & Protein,9,kg,low,100,55
+24,Italian Sausage,Meat & Protein,8,kg,low,100,50
+25,Chorizo Sausage,Meat & Protein,7,kg,low,100,50
+26,Sliced Ham,Meat & Protein,7,kg,low,100,45
+27,Mozzarella cheese,Dairy & Cheese,11,kg,low,103,60
+28,Capocollo,Meat & Protein,8,kg,low,100,50
+29,Goat Cheese,Dairy & Cheese,11,kg,low,103,70
+30,Oregano,Sauces & Seasonings,29,kg,medium,102,25
+31,Anchovies,Meat & Protein,9,kg,low,100,60
+32,Green Olives,Vegetables,15,kg,low,101,30
+33,Kalamata Olives,Vegetables,18,kg,low,101,35
+34,Feta Cheese,Dairy & Cheese,15,kg,low,103,60
+35,Beef Chuck Roast,Meat & Protein,8,kg,low,100,65
+36,Brie Carre Cheese,Dairy & Cheese,9,kg,low,103,75
+37,Prosciutto,Meat & Protein,9,kg,low,100,70
+39,Pears,Fruits,8,kg,low,104,35
+40,Thyme,Sauces & Seasonings,28,kg,medium,102,30
+41,‘Nduja Salami,Meat & Protein,8,kg,low,100,70
+42,Pancetta,Meat & Protein,7,kg,low,100,65
+43,Friggitello Peppers,Vegetables,16,kg,low,101,30
+44,Calabrese Salami,Meat & Protein,9,kg,low,100,70
+45,Genoa Salami,Meat & Protein,8,kg,low,100,65
+46,Prosciutto di San Daniele,Meat & Protein,9,kg,low,100,70
+47,Arugula,Vegetables,18,kg,low,101,40
+48,Coarse Sicilian Salami,Meat & Protein,9,kg,low,100,70
+49,Luganega Sausage,Meat & Protein,9,kg,low,100,65
+50,Soppressata Salami,Meat & Protein,9,kg,low,100,70
+51,Romano Cheese,Dairy & Cheese,14,kg,low,103,75
+52,Blue Cheese,Dairy & Cheese,12,kg,low,103,80
+53,Gorgonzola Piccante Cheese,Dairy & Cheese,14,kg,low,103,80
+54,Ricotta Cheese,Dairy & Cheese,11,kg,low,103,70
+55,Smoked Gouda Cheese,Dairy & Cheese,12,kg,low,103,80
+56,Parmigiano Reggiano Cheese,Dairy & Cheese,13,kg,low,103,85
+57,Provolone Cheese,Dairy & Cheese,12,kg,low,103,80
+58,Sun-dried Tomatoes,Vegetables,17,kg,low,101,45
+59,Chocolate Chips,Breads & Grains,19,kg,low,105,40
+60,Flour,Breads & Grains,78,kg,high,105,20
+61,Brown Sugar,Breads & Grains,95,kg,high,105,15
+62,Vanilla,Syrup,30,l,medium,106,40
+63,Egg,Meat & Protein,70,case,high,100,30
+64,White Chocolate,Syrup,47,l,high,106,50
+65,Caramel,Syrup,19,l,low,106,35
+66,Raspberries,Fruits,7,kg,low,104,60
+67,Whipping Cream,Dairy & Cheese,36,l,medium,103,25
+68,Orange,Fruits,43,kg,high,104,20
+69,Sugar,Breads & Grains,49,kg,high,105,10
+70,Small Water,Beverages,27,case,medium,107,30
+71,Pepsi 1 Liter,Beverages,65,case,high,107,120
+72,Pepsi Can 330ml,Beverages,18,case,low,107,65
+73,Diet Pepsi 1  Liter,Beverages,50,case,high,107,120
+74,Diet Pepsi Can 330ml,Beverages,70,case,high,107,65
+75,Mirinda 1  Liter,Beverages,12,case,low,107,120
+76,Mirinda Can 330ml,Beverages,45,case,high,107,65
+77,7UP 1  Liter,Beverages,23,case,medium,107,120
+78,7UP Can 330ml,Beverages,67,case,high,107,65
+79,Diet 7UP 1  Liter,Beverages,88,case,high,107,120
+80,Diet 7UP Can 330ml,Beverages,39,case,medium,107,65
+81,Ranch Sauce,Sauces & Seasonings,52,l,high,102,20
+82,Honey Mustard Sauce,Sauces & Seasonings,28,l,medium,102,15
+83,Thai Chili Sauce,Sauces & Seasonings,38,l,medium,102,20
+84,Cheese Fondue Sauce,Sauces & Seasonings,47,l,high,102,25
+85,Small Toly toilet tissue,Cleaning supplies,200,unit,high,108,30
+86,Pulling tissues,Cleaning supplies,400,case,high,108,50
+87,Printed table napkins,Cleaning supplies,500,case,high,108,60
+88,Squeegee,Cleaning supplies,0,unit,low,108,10
+89,Glass squeegee,Cleaning supplies,2,unit,low,108,15
+90,Mop,Cleaning supplies,1,unit,low,108,20
+91,Wire sponge,Cleaning supplies,150,unit,high,108,10
+92,Plastic sponge,Cleaning supplies,80,unit,medium,108,5
+93,Cotton swab,Cleaning supplies,8,unit,medium,108,5
+94,Towel,Cleaning supplies,60,unit,medium,108,8
+95,Floor towel,Cleaning supplies,55,unit,low,108,10
+96,Mask,Cleaning supplies,300,unit,medium,108,5
+97,Floor freshener,Cleaning supplies,120,l,high,108,15
+98,Hand wash,Cleaning supplies,100,l,high,108,20
+99,Glass cleaner,Cleaning supplies,25,kg,medium,108,30
+100,Degreaser gallon,Cleaning supplies,80,l,medium,108,40
+101,Salt remover gallon,Cleaning supplies,0,l,low,108,30
+102,Salt remover,Cleaning supplies,35,Bottle,medium,108,20
+103,Persol,Cleaning supplies,85,Bottle,medium,108,25
+104,Liquid soap,Cleaning supplies,450,kg,high,108,15
+105,Stainless steel polish,Cleaning supplies,0,Bottle,low,108,20
+106,Wood polish,Cleaning supplies,22,Bottle,medium,108,15
+107,Large clear garbage bags,Cleaning supplies,36,kg,medium,108,40
+108,Garbage bags,Cleaning supplies,360,kg,high,108,60
+109,Dettol disinfectant,Cleaning supplies,163,kg,high,108,50
+110,Oven cleaner,Cleaning supplies,0,kg,low,108,30
+111,Hand gel,Cleaning supplies,20,Bottle,medium,108,25
+112,Bleach,Cleaning supplies,26,kg,medium,108,20
+113,Incense,Cleaning supplies,20,case,medium,108,35
+114,Glass polishing cloth,Cleaning supplies,60,unit,high,108,10
+115,Metal squeegee stick,Cleaning supplies,5,unit,low,108,15
+116,Insect repellent,Cleaning supplies,10,case,medium,108,40
+117,Potassium,Cleaning supplies,6,unit,medium,108,10
+118,Medical gloves,Cleaning supplies,0,unit,low,108,15
+119,Cockroach killer,Cleaning supplies,4,case,medium,108,30
+120,Zucchini,Vegetables,20,Kg,medium,101,18
+121,Onions,Vegetables,39,Kg,medium,101,16
+122,Eggplant,Vegetables,20,Kg,medium,101,20
+123,Parmesan cheese,Dairy & Cheese,11,Kg,low,103,100
+124,Pasta,Breads & Grains,49,Kg,high,105,15
+125,Potato,Vegetables,39,Kg,medium,101,5
+126,Italian bread,Breads & Grains,30,unit,medium,105,15
+127,Olive Oil,Sauces & Seasonings,50,l,high,102,50
+128,Nuggets,Meat & Protein,23,Kg,medium,100,40
+129,Chicken Wings,Meat & Protein,23,Kg,medium,100,35
+130,Chocolate Sauce,Syrup,47,l,high,106,30

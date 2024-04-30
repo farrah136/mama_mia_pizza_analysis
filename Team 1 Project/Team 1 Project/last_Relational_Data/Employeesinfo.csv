@@ -1,0 +1,40 @@
+Employee_ID,Employee_Name,Role,Shift_Type,Enter Date,Salary
+1,Rayner Gopsill,Assistant Cook,morning,2015,4000
+2,Sunny Kurt,Assistant Cook,night,2015,4000
+3,Dorelle Glasspoole,Assistant Manager,morning,2015,6000
+4,Charlean Slate,Assistant Manager,night,2015,6000
+5,Erna Roisen,Cashier,night,2015,4500
+6,Daffie Hintze,Cashier,morning,2015,4500
+7,Anastasie Helleker,Cashier,morning,2015,4500
+8,Daffie Hintze,Cashier,night,2015,4500
+9,Pete Criple,Cook,night,2015,5000
+10,Rufe Polsin,Cook,night,2015,5000
+11,Doralynn Starie,Cook,morning,2015,5000
+12,Rufe Polsin,Cook,morning,2015,5000
+13,Kerry McElhinney,Manager,night,2015,8000
+14,Kerry McElhinney,Manager,morning,2015,8000
+15,Dyann Juhruke,Marketing Manager,morning,2015,8500
+16,Lindi Cleeton,Pizza Chef,night,2015,4500
+17,Filide Calderwood,Pizza Chef,morning,2015,4500
+18,Manny Streatfeild,Pizza Chef,morning,2015,4500
+19,Hill Biskupski,Recruiter,night,2015,5500
+20,Beck Jakubczyk,Shift Manager,morning,2015,7000
+21,Deanne Koomar,Shift Manager,night,2015,7000
+22,Giulietta Evesque,Waiter,morning,2015,4200
+23,Morey Struther,Waiter,night,2015,4200
+24,Ariana Starrs,Waiter,night,2015,4200
+25,Rochester Grier,Waiter,morning,2015,4200
+26,John Smith,Cleaner,morning,2015,3500
+27,Emily Johnson,Cleaner,night,2015,3500
+28,Michael Williams,Cleaner,morning,2015,3500
+29,Emma Jones,Cleaner,night,2015,3500
+30,Liuka Godspeede,Cleaner,morning,2016,3500
+31,Doralynn Orniz,Cleaner,night,2016,3500
+32,Phyllida Orniz,Cleaner,morning,2016,3500
+33,Jehu Witherspoon,Cleaner,night,2016,3500
+34,Angelico Stannering,Cashier,morning,2016,4500
+35,Raul MolloyDaniel Brown,Waiter,morning,2016,4200
+36,Olivia Davis,Assistant Cook,morning,2016,4000
+37,James Miller,Assistant Cook,night,2016,4000
+38,Sophia Wilson,Cook,morning,2016,5000
+39,Lindi Michael,Cook,night,2016,5000

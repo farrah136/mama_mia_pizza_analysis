@@ -1,0 +1,10 @@
+Supplier_id,Supplier_name,Supplier_mobile,Supplier_email,Category
+100,Prime Cuts Co.,1010102034,primecuts@example.com,Meat & Protein
+101,Green Harvest Farms,1010102035,greenharvest@example.com,Vegetables
+102,Spice Emporium,1010102036,spiceemporium@example.com,Sauces & Seasonings
+103,Dairy Delight Co.,1010102037,dairydelight@example.com,Dairy & Cheese
+104,Orchard Fresh,1010102038,orchardfresh@example.com,Fruits
+105,Golden Grain Bakery,1010102039,goldengrain@example.com,Breads & Grains
+106,Sweet Syrup Solutions,1010102033,sweetsyrup@example.com,Syrup
+107,Refreshing Beverages,1010102032,refreshingbev@example.com,Beverages
+108,CleanRite Solutions,1010102040,cleanrite@example.com,Cleaning Supplies
